@@ -1,0 +1,5 @@
+india:Capital city is New Delhi
+canada:Maple leaf
+new zealand:In Oceania
+japan:Fuji mountain
+singapore:Merlion

@@ -1,0 +1,5 @@
+durian:King of fruit
+mangosteen:Queen of fruit
+apple:kick the doctor away
+watermelon:Red in green
+strawberries:1 kind of berries

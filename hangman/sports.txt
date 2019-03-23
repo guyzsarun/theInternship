@@ -1,0 +1,5 @@
+badminton:use racqet
+basketball:shoot far to score 3 points
+football:contain a ball and a goal
+shooting:presision is goal
+esports:newly added sports
